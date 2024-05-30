@@ -16,4 +16,3 @@ else:
     print("You find a hidden treasure!")
 
 
-print("="*50)
